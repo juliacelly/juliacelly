@@ -5,7 +5,7 @@ Hi! I'm Julia — a pharmacist transitioning into tech with a passion for buildi
 ## 🧬 About Me
 
 - 💊 Background in Pharmacy and Scientific Research  
-- 💻 Currently exploring software development through CESAR School's NExT program. 
+- 💻 Currently exploring software development through CESAR School's NExT program 
 - 🧠 Passionate about **data**, **front-end development**, and **beauty tech**  
 - 🎨 I also create aesthetic, introspective beauty content on TikTok (@juliacelly)
 - 🎨 You can also check out my art on Instagram (@artjulha)

@@ -1,6 +1,6 @@
 # ✨ Julia Celly
 
-Hi! I'm Julia — a pharmacist transitioning into tech with a passion for building thoughtful, design-driven solutions at the intersection of **health, beauty, and technology**.
+Hi! I'm Julia, a pharmacist transitioning into tech with a passion for building thoughtful, design-driven solutions at the intersection of **health, beauty, and technology**.
 
 ## 🧬 About Me
 
